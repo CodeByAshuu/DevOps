@@ -1,2 +1,4 @@
 compose-bindmount/mysql-data/
 **/mysql-data/
+mysql_data/
+wp_content/
